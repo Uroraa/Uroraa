@@ -20,10 +20,9 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Uroraa&show_icons=true&theme=default&count_private=true" width="48%" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Uroraa&layout=compact&theme=default" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Uroraa&theme=github" width="97%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Uroraa&theme=minimal" width="97%" />
 </p>
