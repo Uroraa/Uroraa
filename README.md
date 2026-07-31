@@ -24,5 +24,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Uroraa&theme=minimal" width="97%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Uroraa&theme=github&bg_color=ffffff&color=24292e&line=8a2be2&point=8a2be2&area=true&area_color=d8bfd8" width="97%" />
 </p>
