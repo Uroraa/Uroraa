@@ -14,3 +14,16 @@
   ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
   ![STM32](https://img.shields.io/badge/STM32-03234C?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
   ![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA_Jetson_Orin-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
+  ---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Uroraa&show_icons=true&theme=default&count_private=true" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Uroraa&layout=compact&theme=default" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Uroraa&theme=github" width="97%" />
+</p>
